@@ -1,1 +1,1 @@
-echo <content >> up to date file
+git pull
