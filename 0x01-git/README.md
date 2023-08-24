@@ -1,1 +1,2 @@
-My second readme and third readme
+ALX school is so dope and its open!
+
